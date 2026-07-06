@@ -1,0 +1,5 @@
+{
+  "name": "GPFS (IBM Storage Scale) Monitor",
+  "description": "A comprehensive monitoring dashboard for GPFS clusters, providing real-time insights into node health, NSD status, disk configurations, and cluster-wide metrics by parsing standard GPFS command outputs.",
+  "requestFramePermissions": []
+}

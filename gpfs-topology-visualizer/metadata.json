@@ -1,0 +1,5 @@
+{
+  "name": "GPFS Topology Visualizer",
+  "description": "An interactive web dashboard for visualizing GPFS (IBM Spectrum Scale) storage hierarchies, mapping filesystems to NSDs, vdisks, recovery groups, and physical disks across server nodes.",
+  "requestFramePermissions": []
+}
